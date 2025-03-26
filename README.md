@@ -55,7 +55,6 @@ Este sistema proporciona a orientadores y estudiantes:
 - **pytest**: Testing automatizado
 
 ## 🏗️ Arquitectura
-![image](https://github.com/user-attachments/assets/0b9e8959-4493-4921-9f17-8537cf1b8f11)
 El sistema utiliza un enfoque híbrido de dos fases que integra aprendizaje no supervisado y supervisado:
 
 ### Datos de Entrada
@@ -65,7 +64,8 @@ El sistema utiliza un enfoque híbrido de dos fases que integra aprendizaje no s
 - **Datos de Alumni**: Éxito académico y profesional post-graduación (ground truth)
 
 ### Pipeline de Procesamiento
-![Arquitectura del Sistema](https://via.placeholder.com/800x400?text=Arquitectura+del+Sistema)
+![image](https://github.com/user-attachments/assets/464bbbdc-86cc-4c93-b52d-3a2f99fc9703)
+
 
 1. **Preprocesamiento de Datos**:
    - Normalización y estandarización
