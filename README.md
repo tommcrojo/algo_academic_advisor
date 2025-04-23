@@ -13,7 +13,6 @@
 - [Estado Actual](#estado-actual)
 - [Resultados Preliminares](#resultados-preliminares)
 - [Próximos Pasos](#próximos-pasos)
-- [Instalación y Uso](#instalación-y-uso)
 
 ## 📝 Descripción del Proyecto
 
@@ -151,40 +150,6 @@ Para las próximas iteraciones, nos centraremos en:
    - Pruebas con usuarios reales (orientadores)
    - Refinamiento basado en feedback
    - Optimización de métricas de rendimiento
-
-## 🚀 Instalación y Uso
-
-**Nota**: El proyecto está en desarrollo y aún no está disponible para uso general.
-
-### Requisitos previos
-- Python 3.9+
-- pip o conda para gestión de paquetes
-
-### Instalación para desarrollo
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/sistema-orientacion-academica.git
-cd sistema-orientacion-academica
-
-# Crear entorno virtual
-python -m venv env
-source env/bin/activate  # En Windows: env\Scripts\activate
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Configurar variables de entorno
-cp .env.example .env
-# Editar .env con tus configuraciones
-
-# Ejecutar tests
-pytest
-```
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo [MIT License](LICENSE).
 
 ## 👥 Contacto
 
