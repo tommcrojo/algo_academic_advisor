@@ -38,20 +38,15 @@ Este sistema proporciona a orientadores y estudiantes:
 ### Lenguajes y Frameworks:
 - **Python 3.9+**: Lenguaje principal de desarrollo
 - **TensorFlow/Keras**: Implementación de modelos de machine learning
-- **FastAPI**: Backend y API REST
 - **Pandas/NumPy**: Análisis y manipulación de datos
 
 ### Herramientas de Desarrollo:
 - **Jupyter Notebook**: Prototipado y análisis exploratorio
 - **Git/GitHub**: Control de versiones
-- **Docker**: Contenerización para entornos reproducibles
-- **MLflow**: Seguimiento de experimentos y registro de modelos
 
 ### Bibliotecas ML/Análisis:
 - **scikit-learn**: Preprocesamiento, clustering y evaluación de modelos
 - **Matplotlib/Plotly/Seaborn**: Visualización avanzada de datos
-- **SHAP/LIME**: Interpretabilidad y explicabilidad de predicciones
-- **pytest**: Testing automatizado
 
 ## 🏗️ Arquitectura
 El sistema utiliza un enfoque híbrido de dos fases que integra aprendizaje no supervisado y supervisado:
@@ -115,16 +110,6 @@ En esta fase de desarrollo (v0.3.0), hemos completado:
   - Configuración de entorno de desarrollo
   - Implementación de control de versiones
   - Estructura modular del proyecto
-´´´
-## 📈 Resultados Preliminares
-
-Los resultados iniciales del análisis exploratorio de datos muestran:
-
-- **Correlación entre perfiles y carreras**: Análisis preliminar muestra patrones discernibles entre perfiles académicos/personalidad y éxito en determinadas carreras (r² = 0.68)
-
-- **Potencial predictivo**: Los primeros modelos baseline logran una precisión del 72% en la identificación de carreras adecuadas, superando significativamente la asignación aleatoria (benchmark: 18%)
-
-- **Consistencia de datos OCEAN**: Alta fiabilidad test-retest (α = 0.89) en nuestros formularios de personalidad, validando la calidad de los datos recolectados
 
 
 ## 🔜 Próximos Pasos
