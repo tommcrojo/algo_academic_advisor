@@ -125,7 +125,7 @@ Los resultados iniciales del análisis exploratorio de datos muestran:
 - **Potencial predictivo**: Los primeros modelos baseline logran una precisión del 72% en la identificación de carreras adecuadas, superando significativamente la asignación aleatoria (benchmark: 18%)
 
 - **Consistencia de datos OCEAN**: Alta fiabilidad test-retest (α = 0.89) en nuestros formularios de personalidad, validando la calidad de los datos recolectados
-´´´
+
 
 ## 🔜 Próximos Pasos
 
@@ -151,9 +151,3 @@ Para las próximas iteraciones, nos centraremos en:
    - Refinamiento basado en feedback
    - Optimización de métricas de rendimiento
 
-## 👥 Contacto
-
-Para más información o colaboraciones, contáctame en:
-- 📧 Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 🔗 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/tu-perfil/)
-- 🌐 Web: [tu-web.com](https://tu-web.com)
